@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVPN.Robot", "EVPN.Robot\EVPN.Robot.csproj", "{E2C3095B-FCA5-4D6E-A554-32F1E6697D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVPN.Robot.Test", "EVPN.Robot.Test\EVPN.Robot.Test.csproj", "{EF9B24A7-3403-488F-A3AF-F39B7C3BB285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVPN.Robot.App", "EVPN.Robot.App\EVPN.Robot.App.csproj", "{66EE5999-8C15-4A85-8960-B758F9E1EA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C3095B-FCA5-4D6E-A554-32F1E6697D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C3095B-FCA5-4D6E-A554-32F1E6697D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C3095B-FCA5-4D6E-A554-32F1E6697D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C3095B-FCA5-4D6E-A554-32F1E6697D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9B24A7-3403-488F-A3AF-F39B7C3BB285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9B24A7-3403-488F-A3AF-F39B7C3BB285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9B24A7-3403-488F-A3AF-F39B7C3BB285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9B24A7-3403-488F-A3AF-F39B7C3BB285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EE5999-8C15-4A85-8960-B758F9E1EA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE5999-8C15-4A85-8960-B758F9E1EA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE5999-8C15-4A85-8960-B758F9E1EA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EE5999-8C15-4A85-8960-B758F9E1EA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
